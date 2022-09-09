@@ -1,0 +1,3 @@
+create database employee_management_system;
+use  employee_management_system;
+select * from employee;
